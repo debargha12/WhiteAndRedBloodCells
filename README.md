@@ -3,12 +3,12 @@
 #### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to implement Faster-RCNN to detect white and red blood cells in images.
 
 ### Collaborators
 |Name     |  Github Page   |  Personal Website  |
 |---------|-----------------|--------------------|
-|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
+|Debargha | | https://personal.utdallas.edu/~dxg170014 |
 
 ### Methods Used
 * Inferential Statistics
@@ -37,7 +37,11 @@ The purpose of this project is ________. (Describe the main goals of the project
 2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 4. etc...
-5. Follow setup [instructions](Link to file)
+5. Follow setup instructions below
+
+## Getting Started
+1. After cloning the repo go to repo directory and run the following command on the command line
+pip install -r requirement.txt
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Notebook/Markdown/Slide Deck Title](#)
